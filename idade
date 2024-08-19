@@ -1,0 +1,6 @@
+let idade = 14;
+if (idade >= 18){
+    console.log("verdadeiro")
+}else{
+    console.log("falso")
+}
